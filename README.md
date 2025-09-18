@@ -1,6 +1,6 @@
 # 🚀 Buildify - Editor Visual de Interfaces
 
-> **"Isso só um front-end sênior faria"** - Um editor visual drag & drop que gera código React, Vue e Web Components em tempo real.
+> Um editor visual drag & drop que gera código React, Vue e Web Components em tempo real.
 
 [![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)](https://www.typescriptlang.org/)
 [![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)](https://reactjs.org/)
