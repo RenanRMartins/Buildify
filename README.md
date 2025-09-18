@@ -242,9 +242,8 @@ Este projeto está sob a licença MIT. Veja o arquivo [LICENSE](LICENSE) para ma
 ## 📞 Contato
 
 - **Website**: [buildify.app](https://buildify.app)
-- **Email**: contato@buildify.app
-- **Twitter**: [@buildify_app](https://twitter.com/buildify_app)
-- **GitHub**: [github.com/buildify](https://github.com/buildify)
+- **Email**: renan1612@hotmail.com / (61) 98531-4958
+- **GitHub**: https://github.com/RenanRMartins
 
 ---
 
